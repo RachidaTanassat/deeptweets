@@ -41,7 +41,7 @@ st.title("Tweet Classifier")
 tweet_input = st.text_input("Enter the tweet:")
 
 # Button to classify the tweet
-if st.button("Classify"):
+if st.button("Classify  :crystal_ball:"):
     # Clean, tokenize, and normalize the tweet
     cleaned_tweet = clean_text(tweet_input)
     tokenized_tweet = tokenize_text(cleaned_tweet)
