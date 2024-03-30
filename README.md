@@ -1,8 +1,8 @@
-# DeepTweets: Twitter Sentiment Analysis
+# DeepTweets: Sports vs Politics Classifier
 
 ## Overview
 
-DeepTweets is a machine learning project focused on sentiment analysis of tweets collected from Twitter's API. The project classifies tweets into sentiment categories such as positive, negative, or neutral, using natural language processing (NLP) techniques and machine learning algorithms.
+DeepTweets is a machine learning project focused on classifying tweets into two categories: sports and politics. The project leverages natural language processing (NLP) techniques and machine learning algorithms to predict whether a given tweet is related to sports or politics.
 
 ## Installation
 
@@ -49,4 +49,8 @@ DeepTweets is a machine learning project focused on sentiment analysis of tweets
 ## Deployment
 
 The project is deployed and accessible at: [DeepTweets Web App](https://deeptweets.streamlit.app/)
+
+![1](https://github.com/RachidaTanassat/deeptweets/assets/85264433/5cd19ed8-c957-43ee-9ce5-33a3b2921cf7)
+![2](https://github.com/RachidaTanassat/deeptweets/assets/85264433/f80b7abc-1bb7-4233-901d-45ab45cc92a7)
+
 
